@@ -5,7 +5,7 @@ I love to play story-driven video games, play guitar masterfully, repair game co
 
 ### Work
 - I'm currently working at Earlham College as a Student System Administrator, as well as a CS Tutor.
-- I have three years of experience working as a Janitor/Maintenance for Richmond Community Schools.
+- I have three years of experience working in Janitorial/Maintenance for Richmond Community Schools.
 
 ### Interests
 
