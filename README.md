@@ -1,11 +1,10 @@
 # About Me
 
 ### Hobbies
-I love to play story-driven video games, play guitar masterfully, repair game consoles/controllers, and code. 
+I love to play video games, play guitar, repair game consoles/controllers, and code. 
 
 ### Work
-- I'm currently working at Earlham College as a Student System Administrator, as well as a CS Tutor.
-- I have three years of experience working in Janitorial/Maintenance for Richmond Community Schools.
+- I'm currently working at Earlham College as a Student System Administrator.
 
 ### Interests
 
