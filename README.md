@@ -1,7 +1,17 @@
 # About Me
 
 ### Hobbies
-I love to play video games, play guitar, repair game consoles/controllers, and code. 
+- **Video games.** Specifically, story-driven single-player games. Some of my favorites are:
+    - Alan Wake II/Control
+    - Lego Batman I (most Lego games really)
+    - GTA V (story mode only)
+    - Subnautica
+    - Ghost of Tsushima
+    - Marvel's Spider-Man
+    - Red Dead Redemption I+II
+- **Playing guitar.** I'm currently rocking an [Ibanez Axion Label RG631ALF](https://www.sweetwater.com/store/detail/RG631ALFBCM--ibanez-axion-label-rg631alf-electric-guitar-blue-chameleon?serial=I240312385) and a [Schecter Hellraiser Hybrid C-7](https://www.sweetwater.com/store/detail/HRHC7TBB--schecter-hellraiser-hybrid-c-7-trans-black-burst).
+- **Coding.** I currently work as a student system administrator (and getting a degree in the same field), so coding is part of my job. However, I get the most fun out of coding when I'm creating things based on other hobbies or aspects of my life.
+- **Legos.** I love collecting Legos (mostly Ninjago) but damn they're expensive. 
 
 ### Work
 - I'm currently working at Earlham College as a Student System Administrator.
