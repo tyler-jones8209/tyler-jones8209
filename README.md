@@ -13,9 +13,6 @@
 - **Coding.** I currently work as a student system administrator (and getting a degree in the same field), so coding is part of my job. However, I get the most fun out of coding when I'm creating things based on other hobbies or aspects of my life.
 - **Legos.** I love collecting Legos (mostly Ninjago) but damn they're expensive. 
 
-### Work
-- I'm currently working at Earlham College as a Student System Administrator.
-
 ### Interests
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
